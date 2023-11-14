@@ -9,7 +9,7 @@ This is a simple web application that provides information about Star Wars films
 
 ## Getting Started
 
-1. Clone the repository:
+Clone the repository:
 
    ```bash
    git clone https://github.com/Ameerah14/starwars-api.git
