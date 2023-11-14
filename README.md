@@ -9,16 +9,16 @@ This is a simple web application that provides information about Star Wars films
 
 ## Getting Started
 
-Clone the repository:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/Ameerah14/starwars-api.git
 
-## Install dependencies:
+2. Install dependencies:
     cd star-wars-films-app
     npm install
 
-## Run the development server:
+3. Run the development server:
     npm run dev
     Open http://localhost:3000 in your browser.
 
